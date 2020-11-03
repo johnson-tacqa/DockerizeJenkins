@@ -1,6 +1,6 @@
 node {
     
-	
+/* added a comment to trigger the build  */
 
     env.AWS_ECR_LOGIN=true
     def newApp
